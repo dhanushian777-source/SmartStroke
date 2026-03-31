@@ -1,1 +1,1 @@
-# SmartStroke
+# smartstroke
